@@ -1,1 +1,2 @@
-# Todoey was created for an iOS bootcamp course
+# Todoey 
+iOS app which was created for an iOS bootcamp course
