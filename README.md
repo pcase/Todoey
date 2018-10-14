@@ -1,2 +1,2 @@
 # Todoey 
-iOS app which was created for an iOS bootcamp course
+iOS app which implements a simple to-do list
